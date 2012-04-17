@@ -2,11 +2,11 @@
 , "version": "0.0.1"
 , "author": "Paul Sweeney <paul@8-bitdesign.com>"
 , "description": "A way to immediately improve your website"
-, "repository": 
-  "engines":
+, "engines":
   { "node": "0.6.x"
   , "npm": "1.1.x"
   }
+, "repository": 
   { "type": "git"
   , "url": "https://github.com/nodejitsu/http-server.git"
   }
